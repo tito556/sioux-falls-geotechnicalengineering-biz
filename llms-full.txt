@@ -1,0 +1,48 @@
+# Geotechnicalengineering — Sioux Falls
+
+> Geotechnical engineering services in Sioux Falls, United States.
+
+## Services
+- [Anchors](https://sioux-falls.geotechnicalengineering.biz/anchors/)
+- [Atterberg Limits](https://sioux-falls.geotechnicalengineering.biz/atterberg-limits/)
+- [Cbr Road](https://sioux-falls.geotechnicalengineering.biz/cbr-road/)
+- [Cpt Test](https://sioux-falls.geotechnicalengineering.biz/cpt-test/)
+- [Deep Excavations](https://sioux-falls.geotechnicalengineering.biz/deep-excavations/)
+- [Excavation Monitoring](https://sioux-falls.geotechnicalengineering.biz/excavation-monitoring/)
+- [Excavations](https://sioux-falls.geotechnicalengineering.biz/excavations/)
+- [Flexible Pavement](https://sioux-falls.geotechnicalengineering.biz/flexible-pavement/)
+- [Footings](https://sioux-falls.geotechnicalengineering.biz/footings/)
+- [Foundations](https://sioux-falls.geotechnicalengineering.biz/foundations/)
+- [Geophysics](https://sioux-falls.geotechnicalengineering.biz/geophysics/)
+- [Grain Size](https://sioux-falls.geotechnicalengineering.biz/grain-size/)
+- [Ground Improvement](https://sioux-falls.geotechnicalengineering.biz/ground-improvement/)
+- [Grouting](https://sioux-falls.geotechnicalengineering.biz/grouting/)
+- [In Situ Permeability](https://sioux-falls.geotechnicalengineering.biz/in-situ-permeability/)
+- [Investigation](https://sioux-falls.geotechnicalengineering.biz/investigation/)
+- [Lab In Situ](https://sioux-falls.geotechnicalengineering.biz/lab-in-situ/)
+- [Laboratory](https://sioux-falls.geotechnicalengineering.biz/laboratory/)
+- [Liquefaction](https://sioux-falls.geotechnicalengineering.biz/liquefaction/)
+- [Masw](https://sioux-falls.geotechnicalengineering.biz/masw/)
+- [Mat Foundations](https://sioux-falls.geotechnicalengineering.biz/mat-foundations/)
+- [Piles](https://sioux-falls.geotechnicalengineering.biz/piles/)
+- [Plate Load Test](https://sioux-falls.geotechnicalengineering.biz/plate-load-test/)
+- [Resistivity](https://sioux-falls.geotechnicalengineering.biz/resistivity/)
+- [Retaining Walls](https://sioux-falls.geotechnicalengineering.biz/retaining-walls/)
+- [Road Geotechnics](https://sioux-falls.geotechnicalengineering.biz/road-geotechnics/)
+- [Sand Cone Density](https://sioux-falls.geotechnicalengineering.biz/sand-cone-density/)
+- [Seismic](https://sioux-falls.geotechnicalengineering.biz/seismic/)
+- [Seismic Isolation](https://sioux-falls.geotechnicalengineering.biz/seismic-isolation/)
+- [Seismic Microzonation](https://sioux-falls.geotechnicalengineering.biz/seismic-microzonation/)
+- [Slope Stability](https://sioux-falls.geotechnicalengineering.biz/slope-stability/)
+- [Slopes](https://sioux-falls.geotechnicalengineering.biz/slopes/)
+- [Soft Ground Tunnels](https://sioux-falls.geotechnicalengineering.biz/soft-ground-tunnels/)
+- [Spt Drilling](https://sioux-falls.geotechnicalengineering.biz/spt-drilling/)
+- [Stone Columns](https://sioux-falls.geotechnicalengineering.biz/stone-columns/)
+- [Test Pits](https://sioux-falls.geotechnicalengineering.biz/test-pits/)
+
+## Contact
+- Website: https://sioux-falls.geotechnicalengineering.biz/
+
+## About
+This site provides geotechnical engineering services in Sioux Falls, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
